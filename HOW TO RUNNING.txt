@@ -1,0 +1,8 @@
+Cara men-running project ini
+
+1. Buka terminal lalu tuliskan perintah berikut ini cp .env.example .env
+2. Lalu tuliskan perintah berikut ini composer install
+3. Lalu tuliskan perintah berikut ini php artisan key:generate
+4. Lalu tuliskan perintah berikut ini php artisan migrate
+5. Lalu tuliskan perintah berikut ini php artisan db:seed
+6. Lalu tuliskan perintah berikut ini php artisan serve
