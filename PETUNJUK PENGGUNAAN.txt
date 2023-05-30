@@ -1,0 +1,8 @@
+Sebelum men-running project laravel ini,
+anda harus membuat sebuah database dulu dengan nama apa saja bebas
+namun nanti tolong sesuaikan dengan nama database yang ada di dalam file .env
+setelah itu running php artisan migrate untuk bisa men-insert table-table yang sudah
+ada di dalam laravel ke dalam database anda
+
+Good Luck :)
+Kalau ada pertanyaan, tanyakan saja langsung ya
